@@ -26,3 +26,11 @@ ul,li{
     padding: 0 10px;
 }
 
+.rule {
+    padding: 0 10px;
+}
+
+.rule p,.rule li {
+    line-height: 30px;
+}
+
